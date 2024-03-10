@@ -6,7 +6,7 @@ La valeur est 2 car le nombre de bytes de l'instruction est de 2. Il y a une cor
 ## Question 2
 |Valeurs de base|Résultat|
 |---|---|
-|[](img/image.png)|[](img/image2.png)|
+|![](img/image.png)|![](img/image2.png)|
 
 ## Question 3
 
