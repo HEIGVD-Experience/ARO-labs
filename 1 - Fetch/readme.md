@@ -9,5 +9,8 @@ La valeur est 2 car le nombre de bytes de l'instruction est de 2. Il y a une cor
 |![](img/image.png)|![](img/image2.png)|
 
 ## Question 3
+|Valeurs de base|Résultat|
+|---|---|
+|![](img/image3.png)|![](img/image4.png)|
 
 ## Question 4
