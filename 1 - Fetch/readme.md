@@ -6,11 +6,15 @@ La valeur est 2 car le nombre de bytes de l'instruction est de 2. Il y a une cor
 
 ## Question 2
 ### Relever et analyser le chronogramme. Veiller à bien expliquer ce que vous observez, vous pouvez annoter le chronogramme.
-![](img/Labo_Fetch_Q2.png)
+|Chronogramme|Résultat|
+|---|---|
+|![](img/image.png)|![](img/image2.png)|
 
 ## Question 3
 ### Relever et analyser le chronogramme. Veiller à bien expliquer ce que vous observez, vous pouvez annoter le chronogramme.
-![](img/Labo_Fetch_Q3.png)
+|Chronogramme|Résultat|
+|---|---|
+|![](img/image3.png)|![](img/image4.png)|
 
 ## Question 4
 ### L’adresse de saut contenue dans les instructions de saut conditionnel et inconditionnel est une valeur signée ou non signée ? Justifier votre réponse.
