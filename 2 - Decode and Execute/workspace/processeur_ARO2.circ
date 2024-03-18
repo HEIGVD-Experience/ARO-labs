@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project integrity="44d373132262d06e1413bce5c802d7cbae2e0622" source="2.16.8.t" version="1.0">
+<project integrity="f1d329584610f83571ae45b166a0d0f3e5c0f917" source="2.16.8.t" version="1.0">
   This file is intended to be loaded by Logisim-evolution (https://github.com/reds-heig/logisim-evolution).
 
   <lib desc="#Wiring" name="0">
@@ -1010,9 +1010,9 @@ end TCL_Generic;
     <wire from="(890,460)" to="(910,460)"/>
     <wire from="(890,500)" to="(910,500)"/>
     <wire from="(890,420)" to="(910,420)"/>
-    <wire from="(850,860)" to="(870,860)"/>
     <wire from="(850,900)" to="(870,900)"/>
     <wire from="(890,380)" to="(910,380)"/>
+    <wire from="(850,860)" to="(870,860)"/>
     <wire from="(200,120)" to="(230,120)"/>
     <wire from="(1520,940)" to="(1530,940)"/>
     <wire from="(630,640)" to="(650,640)"/>
@@ -3321,14 +3321,14 @@ end TCL_Generic;
     <wire from="(950,30)" to="(950,140)"/>
     <wire from="(1000,240)" to="(1020,240)"/>
     <wire from="(880,170)" to="(880,210)"/>
-    <wire from="(410,290)" to="(430,290)"/>
-    <wire from="(410,530)" to="(430,530)"/>
-    <wire from="(410,130)" to="(430,130)"/>
-    <wire from="(410,50)" to="(430,50)"/>
-    <wire from="(410,610)" to="(430,610)"/>
-    <wire from="(410,450)" to="(430,450)"/>
-    <wire from="(410,370)" to="(430,370)"/>
     <wire from="(410,210)" to="(430,210)"/>
+    <wire from="(410,530)" to="(430,530)"/>
+    <wire from="(410,50)" to="(430,50)"/>
+    <wire from="(410,130)" to="(430,130)"/>
+    <wire from="(410,610)" to="(430,610)"/>
+    <wire from="(410,370)" to="(430,370)"/>
+    <wire from="(410,450)" to="(430,450)"/>
+    <wire from="(410,290)" to="(430,290)"/>
     <wire from="(230,720)" to="(230,760)"/>
     <wire from="(380,870)" to="(530,870)"/>
     <wire from="(110,70)" to="(130,70)"/>
@@ -4099,11 +4099,11 @@ end TCL_Generic;
     <wire from="(1330,290)" to="(1340,290)"/>
     <wire from="(1330,370)" to="(1340,370)"/>
     <wire from="(1330,570)" to="(1340,570)"/>
-    <wire from="(1330,490)" to="(1340,490)"/>
-    <wire from="(1330,450)" to="(1340,450)"/>
-    <wire from="(1330,530)" to="(1340,530)"/>
     <wire from="(1330,650)" to="(1340,650)"/>
     <wire from="(1330,610)" to="(1340,610)"/>
+    <wire from="(1330,530)" to="(1340,530)"/>
+    <wire from="(1330,490)" to="(1340,490)"/>
+    <wire from="(1330,450)" to="(1340,450)"/>
     <wire from="(260,840)" to="(290,840)"/>
     <wire from="(310,250)" to="(340,250)"/>
     <wire from="(260,440)" to="(290,440)"/>
@@ -4171,21 +4171,21 @@ end TCL_Generic;
     <wire from="(300,330)" to="(340,330)"/>
     <wire from="(300,130)" to="(340,130)"/>
     <wire from="(1330,270)" to="(1340,270)"/>
-    <wire from="(1330,150)" to="(1340,150)"/>
     <wire from="(1330,230)" to="(1340,230)"/>
     <wire from="(1330,190)" to="(1340,190)"/>
-    <wire from="(1330,70)" to="(1340,70)"/>
+    <wire from="(1330,150)" to="(1340,150)"/>
     <wire from="(1330,110)" to="(1340,110)"/>
+    <wire from="(1330,70)" to="(1340,70)"/>
     <wire from="(1330,310)" to="(1340,310)"/>
-    <wire from="(1330,350)" to="(1340,350)"/>
     <wire from="(1330,390)" to="(1340,390)"/>
-    <wire from="(1330,550)" to="(1340,550)"/>
+    <wire from="(1330,350)" to="(1340,350)"/>
     <wire from="(1330,590)" to="(1340,590)"/>
-    <wire from="(1330,510)" to="(1340,510)"/>
-    <wire from="(1330,470)" to="(1340,470)"/>
-    <wire from="(1330,430)" to="(1340,430)"/>
     <wire from="(1330,630)" to="(1340,630)"/>
     <wire from="(1330,670)" to="(1340,670)"/>
+    <wire from="(1330,510)" to="(1340,510)"/>
+    <wire from="(1330,550)" to="(1340,550)"/>
+    <wire from="(1330,430)" to="(1340,430)"/>
+    <wire from="(1330,470)" to="(1340,470)"/>
     <wire from="(910,50)" to="(910,90)"/>
     <wire from="(910,90)" to="(910,130)"/>
     <wire from="(310,350)" to="(340,350)"/>
@@ -7897,23 +7897,10 @@ end TCL_Generic;
     <wire from="(630,80)" to="(630,100)"/>
     <wire from="(590,220)" to="(590,240)"/>
     <wire from="(580,710)" to="(580,730)"/>
-    <wire from="(220,230)" to="(250,230)"/>
     <wire from="(220,250)" to="(250,250)"/>
-    <wire from="(220,350)" to="(250,350)"/>
     <wire from="(220,370)" to="(250,370)"/>
-    <wire from="(220,390)" to="(250,390)"/>
-    <wire from="(220,410)" to="(250,410)"/>
-    <wire from="(220,430)" to="(250,430)"/>
-    <wire from="(220,450)" to="(250,450)"/>
-    <wire from="(220,470)" to="(250,470)"/>
-    <wire from="(220,490)" to="(250,490)"/>
-    <wire from="(620,510)" to="(620,550)"/>
-    <wire from="(220,330)" to="(250,330)"/>
-    <wire from="(220,310)" to="(250,310)"/>
-    <wire from="(220,290)" to="(250,290)"/>
+    <wire from="(220,230)" to="(250,230)"/>
     <wire from="(220,190)" to="(250,190)"/>
-    <wire from="(220,210)" to="(250,210)"/>
-    <wire from="(220,270)" to="(250,270)"/>
     <wire from="(220,170)" to="(250,170)"/>
     <wire from="(220,150)" to="(250,150)"/>
     <wire from="(220,130)" to="(250,130)"/>
@@ -7922,6 +7909,19 @@ end TCL_Generic;
     <wire from="(220,70)" to="(250,70)"/>
     <wire from="(220,30)" to="(250,30)"/>
     <wire from="(220,50)" to="(250,50)"/>
+    <wire from="(220,210)" to="(250,210)"/>
+    <wire from="(220,350)" to="(250,350)"/>
+    <wire from="(220,330)" to="(250,330)"/>
+    <wire from="(220,310)" to="(250,310)"/>
+    <wire from="(220,290)" to="(250,290)"/>
+    <wire from="(220,270)" to="(250,270)"/>
+    <wire from="(220,390)" to="(250,390)"/>
+    <wire from="(220,410)" to="(250,410)"/>
+    <wire from="(220,430)" to="(250,430)"/>
+    <wire from="(220,450)" to="(250,450)"/>
+    <wire from="(220,470)" to="(250,470)"/>
+    <wire from="(220,490)" to="(250,490)"/>
+    <wire from="(620,510)" to="(620,550)"/>
     <wire from="(1250,220)" to="(1260,220)"/>
     <wire from="(1250,280)" to="(1260,280)"/>
     <wire from="(1250,160)" to="(1260,160)"/>
@@ -8550,116 +8550,208 @@ end TCL_Generic;
     <a name="clabelfont" val="SansSerif bold 12"/>
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitvhdlpath" val=""/>
-    <wire from="(850,470)" to="(850,610)"/>
-    <wire from="(600,140)" to="(720,140)"/>
-    <wire from="(950,630)" to="(950,640)"/>
-    <wire from="(600,200)" to="(650,200)"/>
-    <wire from="(680,480)" to="(870,480)"/>
-    <wire from="(600,190)" to="(660,190)"/>
-    <wire from="(600,210)" to="(640,210)"/>
-    <wire from="(1150,630)" to="(1150,640)"/>
-    <wire from="(580,450)" to="(690,450)"/>
-    <wire from="(1050,470)" to="(1050,610)"/>
-    <wire from="(1260,380)" to="(1310,380)"/>
-    <wire from="(1100,420)" to="(1100,470)"/>
-    <wire from="(1100,470)" to="(1240,470)"/>
-    <wire from="(1110,590)" to="(1120,590)"/>
-    <wire from="(870,380)" to="(870,480)"/>
-    <wire from="(1070,380)" to="(1070,480)"/>
-    <wire from="(910,590)" to="(920,590)"/>
-    <wire from="(900,420)" to="(900,470)"/>
-    <wire from="(700,150)" to="(700,160)"/>
-    <wire from="(950,440)" to="(950,450)"/>
-    <wire from="(680,480)" to="(680,570)"/>
-    <wire from="(1070,480)" to="(1260,480)"/>
-    <wire from="(1150,640)" to="(1340,640)"/>
-    <wire from="(680,170)" to="(680,200)"/>
-    <wire from="(580,110)" to="(580,140)"/>
-    <wire from="(1150,440)" to="(1150,450)"/>
-    <wire from="(1340,630)" to="(1340,640)"/>
-    <wire from="(1240,470)" to="(1240,610)"/>
-    <wire from="(900,420)" to="(920,420)"/>
-    <wire from="(1290,420)" to="(1290,470)"/>
-    <wire from="(1300,590)" to="(1310,590)"/>
-    <wire from="(1110,400)" to="(1120,400)"/>
-    <wire from="(900,470)" to="(1050,470)"/>
-    <wire from="(1050,610)" to="(1120,610)"/>
-    <wire from="(870,480)" to="(1070,480)"/>
-    <wire from="(720,470)" to="(850,470)"/>
-    <wire from="(950,640)" to="(1150,640)"/>
-    <wire from="(1260,380)" to="(1260,480)"/>
-    <wire from="(850,610)" to="(920,610)"/>
-    <wire from="(660,190)" to="(660,240)"/>
-    <wire from="(690,640)" to="(770,640)"/>
-    <wire from="(910,400)" to="(920,400)"/>
-    <wire from="(1100,420)" to="(1120,420)"/>
-    <wire from="(770,640)" to="(950,640)"/>
-    <wire from="(770,630)" to="(770,640)"/>
-    <wire from="(870,570)" to="(920,570)"/>
-    <wire from="(850,470)" to="(900,470)"/>
-    <wire from="(1070,480)" to="(1070,570)"/>
-    <wire from="(680,570)" to="(740,570)"/>
-    <wire from="(640,210)" to="(640,280)"/>
-    <wire from="(700,610)" to="(740,610)"/>
-    <wire from="(1150,450)" to="(1340,450)"/>
-    <wire from="(870,480)" to="(870,570)"/>
-    <wire from="(1340,440)" to="(1340,450)"/>
-    <wire from="(1070,570)" to="(1120,570)"/>
-    <wire from="(1050,470)" to="(1100,470)"/>
-    <wire from="(1300,400)" to="(1310,400)"/>
-    <wire from="(700,470)" to="(720,470)"/>
+    <wire from="(750,190)" to="(750,200)"/>
+    <wire from="(850,130)" to="(900,130)"/>
+    <wire from="(1880,610)" to="(1920,610)"/>
+    <wire from="(570,580)" to="(610,580)"/>
+    <wire from="(1880,600)" to="(1930,600)"/>
+    <wire from="(1880,590)" to="(1940,590)"/>
+    <wire from="(620,600)" to="(620,750)"/>
+    <wire from="(1060,840)" to="(1140,840)"/>
+    <wire from="(700,170)" to="(720,170)"/>
+    <wire from="(750,770)" to="(780,770)"/>
+    <wire from="(1730,570)" to="(1740,570)"/>
+    <wire from="(660,130)" to="(660,230)"/>
+    <wire from="(670,700)" to="(670,800)"/>
+    <wire from="(1880,630)" to="(1900,630)"/>
+    <wire from="(560,170)" to="(700,170)"/>
+    <wire from="(1880,620)" to="(1910,620)"/>
+    <wire from="(660,790)" to="(710,790)"/>
+    <wire from="(660,950)" to="(710,950)"/>
+    <wire from="(1360,780)" to="(1400,780)"/>
+    <wire from="(650,610)" to="(710,610)"/>
+    <wire from="(930,390)" to="(1160,390)"/>
+    <wire from="(570,700)" to="(670,700)"/>
+    <wire from="(730,700)" to="(730,730)"/>
+    <wire from="(610,740)" to="(710,740)"/>
+    <wire from="(610,900)" to="(710,900)"/>
+    <wire from="(730,860)" to="(730,890)"/>
+    <wire from="(1960,570)" to="(1960,580)"/>
+    <wire from="(560,200)" to="(670,200)"/>
+    <wire from="(600,560)" to="(710,560)"/>
+    <wire from="(1790,550)" to="(1850,550)"/>
+    <wire from="(1210,540)" to="(1210,590)"/>
+    <wire from="(1080,170)" to="(1080,220)"/>
+    <wire from="(1430,320)" to="(1440,320)"/>
+    <wire from="(1190,320)" to="(1200,320)"/>
+    <wire from="(850,130)" to="(850,230)"/>
+    <wire from="(570,560)" to="(600,560)"/>
+    <wire from="(1920,610)" to="(1920,660)"/>
+    <wire from="(880,220)" to="(1020,220)"/>
+    <wire from="(890,340)" to="(900,340)"/>
+    <wire from="(1120,560)" to="(1140,560)"/>
+    <wire from="(1020,220)" to="(1020,360)"/>
+    <wire from="(1020,860)" to="(1140,860)"/>
+    <wire from="(640,640)" to="(640,770)"/>
+    <wire from="(660,230)" to="(660,320)"/>
+    <wire from="(1050,230)" to="(1240,230)"/>
+    <wire from="(1710,130)" to="(1760,130)"/>
+    <wire from="(1160,380)" to="(1160,390)"/>
+    <wire from="(1130,190)" to="(1130,200)"/>
+    <wire from="(1400,380)" to="(1400,390)"/>
+    <wire from="(1270,170)" to="(1270,220)"/>
+    <wire from="(960,130)" to="(980,130)"/>
+    <wire from="(1910,680)" to="(1980,680)"/>
     <wire from="(250,540)" to="(270,540)"/>
     <wire from="(250,460)" to="(270,460)"/>
-    <wire from="(250,500)" to="(270,500)"/>
-    <wire from="(250,580)" to="(270,580)"/>
-    <wire from="(1240,610)" to="(1310,610)"/>
     <wire from="(250,380)" to="(270,380)"/>
-    <wire from="(250,420)" to="(270,420)"/>
-    <wire from="(250,340)" to="(270,340)"/>
-    <wire from="(650,260)" to="(720,260)"/>
-    <wire from="(690,450)" to="(690,640)"/>
-    <wire from="(950,450)" to="(1150,450)"/>
-    <wire from="(1720,280)" to="(1750,280)"/>
-    <wire from="(1720,240)" to="(1750,240)"/>
-    <wire from="(720,420)" to="(720,470)"/>
-    <wire from="(640,280)" to="(720,280)"/>
-    <wire from="(690,450)" to="(770,450)"/>
-    <wire from="(730,590)" to="(740,590)"/>
-    <wire from="(1290,420)" to="(1310,420)"/>
-    <wire from="(770,440)" to="(770,450)"/>
-    <wire from="(870,380)" to="(920,380)"/>
-    <wire from="(670,220)" to="(720,220)"/>
-    <wire from="(700,470)" to="(700,610)"/>
-    <wire from="(770,450)" to="(950,450)"/>
-    <wire from="(1260,480)" to="(1260,570)"/>
-    <wire from="(680,380)" to="(740,380)"/>
-    <wire from="(660,240)" to="(720,240)"/>
-    <wire from="(680,200)" to="(720,200)"/>
-    <wire from="(600,150)" to="(700,150)"/>
-    <wire from="(1570,160)" to="(1620,160)"/>
-    <wire from="(1570,200)" to="(1620,200)"/>
-    <wire from="(1260,570)" to="(1310,570)"/>
-    <wire from="(1240,470)" to="(1290,470)"/>
-    <wire from="(1070,380)" to="(1120,380)"/>
-    <wire from="(690,160)" to="(690,180)"/>
-    <wire from="(670,180)" to="(670,220)"/>
-    <wire from="(660,480)" to="(680,480)"/>
-    <wire from="(700,160)" to="(720,160)"/>
-    <wire from="(720,420)" to="(740,420)"/>
-    <wire from="(690,180)" to="(720,180)"/>
-    <wire from="(680,380)" to="(680,480)"/>
+    <wire from="(570,680)" to="(660,680)"/>
+    <wire from="(640,770)" to="(710,770)"/>
+    <wire from="(640,930)" to="(710,930)"/>
+    <wire from="(850,230)" to="(1050,230)"/>
+    <wire from="(1730,250)" to="(1760,250)"/>
+    <wire from="(630,590)" to="(710,590)"/>
+    <wire from="(670,390)" to="(750,390)"/>
+    <wire from="(890,150)" to="(900,150)"/>
+    <wire from="(1080,170)" to="(1100,170)"/>
+    <wire from="(1160,390)" to="(1400,390)"/>
+    <wire from="(750,390)" to="(930,390)"/>
+    <wire from="(1950,580)" to="(1950,600)"/>
+    <wire from="(660,320)" to="(720,320)"/>
+    <wire from="(680,360)" to="(720,360)"/>
+    <wire from="(1130,200)" to="(1320,200)"/>
+    <wire from="(1930,640)" to="(1980,640)"/>
+    <wire from="(850,230)" to="(850,320)"/>
+    <wire from="(1190,620)" to="(1190,630)"/>
+    <wire from="(1020,360)" to="(1130,360)"/>
+    <wire from="(1320,190)" to="(1320,200)"/>
+    <wire from="(1910,620)" to="(1910,680)"/>
+    <wire from="(660,680)" to="(660,790)"/>
+    <wire from="(680,220)" to="(700,220)"/>
+    <wire from="(610,580)" to="(610,740)"/>
+    <wire from="(620,750)" to="(620,910)"/>
+    <wire from="(610,740)" to="(610,900)"/>
+    <wire from="(600,730)" to="(600,890)"/>
+    <wire from="(750,600)" to="(780,600)"/>
+    <wire from="(630,760)" to="(630,920)"/>
+    <wire from="(650,780)" to="(650,940)"/>
+    <wire from="(640,770)" to="(640,930)"/>
+    <wire from="(670,800)" to="(670,960)"/>
+    <wire from="(660,790)" to="(660,950)"/>
     <wire from="(250,270)" to="(270,270)"/>
     <wire from="(250,190)" to="(270,190)"/>
     <wire from="(250,110)" to="(270,110)"/>
+    <wire from="(930,200)" to="(1130,200)"/>
+    <wire from="(570,660)" to="(650,660)"/>
+    <wire from="(670,200)" to="(750,200)"/>
+    <wire from="(710,340)" to="(720,340)"/>
+    <wire from="(700,220)" to="(840,220)"/>
+    <wire from="(1270,170)" to="(1290,170)"/>
+    <wire from="(1950,600)" to="(1980,600)"/>
+    <wire from="(840,220)" to="(840,360)"/>
+    <wire from="(1880,560)" to="(1980,560)"/>
+    <wire from="(1050,130)" to="(1100,130)"/>
+    <wire from="(1030,900)" to="(1140,900)"/>
+    <wire from="(610,570)" to="(610,580)"/>
+    <wire from="(660,620)" to="(710,620)"/>
+    <wire from="(680,220)" to="(680,360)"/>
+    <wire from="(1080,220)" to="(1250,220)"/>
+    <wire from="(750,200)" to="(930,200)"/>
+    <wire from="(660,130)" to="(720,130)"/>
+    <wire from="(670,800)" to="(710,800)"/>
+    <wire from="(670,960)" to="(710,960)"/>
+    <wire from="(730,530)" to="(730,560)"/>
+    <wire from="(610,570)" to="(710,570)"/>
+    <wire from="(630,590)" to="(630,620)"/>
+    <wire from="(620,580)" to="(620,600)"/>
+    <wire from="(1060,800)" to="(1140,800)"/>
+    <wire from="(1060,880)" to="(1140,880)"/>
+    <wire from="(640,600)" to="(640,640)"/>
+    <wire from="(640,230)" to="(660,230)"/>
+    <wire from="(780,130)" to="(800,130)"/>
+    <wire from="(1070,820)" to="(1140,820)"/>
+    <wire from="(1900,700)" to="(1910,700)"/>
+    <wire from="(620,750)" to="(710,750)"/>
+    <wire from="(620,910)" to="(710,910)"/>
+    <wire from="(1060,560)" to="(1090,560)"/>
+    <wire from="(570,640)" to="(640,640)"/>
+    <wire from="(1740,210)" to="(1760,210)"/>
+    <wire from="(660,620)" to="(660,680)"/>
+    <wire from="(960,320)" to="(970,320)"/>
+    <wire from="(650,610)" to="(650,660)"/>
+    <wire from="(710,150)" to="(720,150)"/>
+    <wire from="(1190,540)" to="(1210,540)"/>
+    <wire from="(1940,590)" to="(1940,620)"/>
+    <wire from="(930,380)" to="(930,390)"/>
+    <wire from="(630,620)" to="(630,760)"/>
+    <wire from="(1640,530)" to="(1740,530)"/>
+    <wire from="(660,230)" to="(850,230)"/>
+    <wire from="(840,360)" to="(900,360)"/>
+    <wire from="(1230,610)" to="(1270,610)"/>
+    <wire from="(1020,220)" to="(1080,220)"/>
+    <wire from="(670,630)" to="(670,700)"/>
+    <wire from="(840,220)" to="(880,220)"/>
+    <wire from="(1080,520)" to="(1140,520)"/>
+    <wire from="(1250,360)" to="(1370,360)"/>
+    <wire from="(1240,130)" to="(1290,130)"/>
+    <wire from="(1050,130)" to="(1050,230)"/>
+    <wire from="(640,600)" to="(710,600)"/>
+    <wire from="(880,170)" to="(880,220)"/>
+    <wire from="(1030,920)" to="(1140,920)"/>
+    <wire from="(930,190)" to="(930,200)"/>
+    <wire from="(570,620)" to="(630,620)"/>
+    <wire from="(650,780)" to="(710,780)"/>
+    <wire from="(650,940)" to="(710,940)"/>
+    <wire from="(1850,550)" to="(1850,560)"/>
+    <wire from="(1710,170)" to="(1760,170)"/>
+    <wire from="(600,730)" to="(710,730)"/>
+    <wire from="(600,890)" to="(710,890)"/>
+    <wire from="(1900,630)" to="(1900,700)"/>
+    <wire from="(880,170)" to="(900,170)"/>
+    <wire from="(1110,630)" to="(1190,630)"/>
+    <wire from="(1360,340)" to="(1370,340)"/>
+    <wire from="(600,560)" to="(600,730)"/>
+    <wire from="(1090,150)" to="(1100,150)"/>
+    <wire from="(1120,340)" to="(1130,340)"/>
+    <wire from="(250,500)" to="(270,500)"/>
+    <wire from="(250,580)" to="(270,580)"/>
+    <wire from="(250,420)" to="(270,420)"/>
+    <wire from="(250,340)" to="(270,340)"/>
+    <wire from="(650,660)" to="(650,780)"/>
+    <wire from="(1690,580)" to="(1710,580)"/>
+    <wire from="(1240,130)" to="(1240,230)"/>
+    <wire from="(1360,800)" to="(1390,800)"/>
+    <wire from="(1350,320)" to="(1370,320)"/>
+    <wire from="(1110,320)" to="(1130,320)"/>
+    <wire from="(780,320)" to="(790,320)"/>
+    <wire from="(1160,130)" to="(1180,130)"/>
+    <wire from="(750,930)" to="(760,930)"/>
+    <wire from="(1250,220)" to="(1270,220)"/>
+    <wire from="(750,380)" to="(750,390)"/>
+    <wire from="(1860,530)" to="(1860,560)"/>
+    <wire from="(850,320)" to="(900,320)"/>
+    <wire from="(1940,620)" to="(1980,620)"/>
+    <wire from="(570,600)" to="(620,600)"/>
+    <wire from="(670,630)" to="(710,630)"/>
+    <wire from="(1920,660)" to="(1980,660)"/>
+    <wire from="(1250,220)" to="(1250,360)"/>
+    <wire from="(1190,620)" to="(1200,620)"/>
+    <wire from="(1280,150)" to="(1290,150)"/>
+    <wire from="(1880,580)" to="(1950,580)"/>
+    <wire from="(1880,570)" to="(1960,570)"/>
     <wire from="(250,230)" to="(270,230)"/>
     <wire from="(250,310)" to="(270,310)"/>
     <wire from="(250,150)" to="(270,150)"/>
-    <wire from="(600,160)" to="(690,160)"/>
-    <wire from="(600,180)" to="(670,180)"/>
-    <wire from="(650,200)" to="(650,260)"/>
-    <wire from="(600,170)" to="(680,170)"/>
-    <wire from="(580,420)" to="(720,420)"/>
-    <wire from="(730,400)" to="(740,400)"/>
+    <wire from="(620,580)" to="(710,580)"/>
+    <wire from="(1960,580)" to="(1980,580)"/>
+    <wire from="(670,200)" to="(670,390)"/>
+    <wire from="(1930,600)" to="(1930,640)"/>
+    <wire from="(1350,130)" to="(1370,130)"/>
+    <wire from="(700,170)" to="(700,220)"/>
+    <wire from="(630,760)" to="(710,760)"/>
+    <wire from="(630,920)" to="(710,920)"/>
+    <wire from="(1050,600)" to="(1200,600)"/>
+    <wire from="(1120,780)" to="(1140,780)"/>
     <comp lib="8" loc="(244,56)" name="Text">
       <a name="text" val="Banque de registres"/>
       <a name="font" val="SansSerif bold 20"/>
@@ -8826,87 +8918,7 @@ end TCL_Generic;
     <comp lib="0" loc="(270,580)" name="Tunnel">
       <a name="label" val="reg_bank_en_s"/>
     </comp>
-    <comp lib="0" loc="(1720,240)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="16"/>
-      <a name="label" val="reg_mem_read_data_s"/>
-    </comp>
-    <comp lib="0" loc="(1720,280)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="width" val="16"/>
-      <a name="label" val="PC_pres"/>
-    </comp>
-    <comp lib="4" loc="(740,540)" name="Register">
-      <a name="width" val="16"/>
-      <a name="label" val="R4"/>
-      <a name="showInTab" val="true"/>
-      <a name="owner" val="gwendal_piemonte"/>
-      <a name="date" val="18.03.24 19:01:34"/>
-      <a name="version" val="2.16.8.t"/>
-      <a name="uuid" val="9d674ec4-23b4-4f62-8641-5b9b6f26ec6d"/>
-      <a name="integrity" val="3a63e5cb8baddd953a1bc67ccce8ddfbf399d0a1"/>
-    </comp>
-    <comp lib="4" loc="(740,350)" name="Register">
-      <a name="width" val="16"/>
-      <a name="label" val="R0"/>
-      <a name="showInTab" val="true"/>
-      <a name="owner" val="gwendal_piemonte"/>
-      <a name="date" val="18.03.24 19:01:16"/>
-      <a name="version" val="2.16.8.t"/>
-      <a name="uuid" val="8421f93e-4648-4168-87c7-7bfa96253854"/>
-      <a name="integrity" val="c49c766cc6dc8bf283bbdb4a5364b8c55930e1ef"/>
-    </comp>
-    <comp lib="4" loc="(920,540)" name="Register">
-      <a name="width" val="16"/>
-      <a name="label" val="SP"/>
-      <a name="showInTab" val="true"/>
-      <a name="owner" val="gwendal_piemonte"/>
-      <a name="date" val="18.03.24 19:01:37"/>
-      <a name="version" val="2.16.8.t"/>
-      <a name="uuid" val="b4ae7d8a-cf36-4440-b91f-03f79b604b70"/>
-      <a name="integrity" val="23c1d2bf1d71cc21d81d5b9794782cc6756d8e2d"/>
-    </comp>
-    <comp lib="4" loc="(920,350)" name="Register">
-      <a name="width" val="16"/>
-      <a name="label" val="R1"/>
-      <a name="showInTab" val="true"/>
-      <a name="owner" val="gwendal_piemonte"/>
-      <a name="date" val="18.03.24 19:01:27"/>
-      <a name="version" val="2.16.8.t"/>
-      <a name="uuid" val="a92d951b-4810-46fe-a4a1-59f641d5fa75"/>
-      <a name="integrity" val="8779c121a0f971efd8ba18d19c50fb283bfe18ae"/>
-    </comp>
-    <comp lib="4" loc="(1120,540)" name="Register">
-      <a name="width" val="16"/>
-      <a name="label" val="LR"/>
-      <a name="showInTab" val="true"/>
-      <a name="owner" val="gwendal_piemonte"/>
-      <a name="date" val="18.03.24 19:01:39"/>
-      <a name="version" val="2.16.8.t"/>
-      <a name="uuid" val="bf5fc6d5-5ba1-4dce-8590-7f60bdf87449"/>
-      <a name="integrity" val="7eb4a4655cdcb7ad5f855ec99143207e1408df66"/>
-    </comp>
-    <comp lib="4" loc="(1120,350)" name="Register">
-      <a name="width" val="16"/>
-      <a name="label" val="R2"/>
-      <a name="showInTab" val="true"/>
-      <a name="owner" val="gwendal_piemonte"/>
-      <a name="date" val="18.03.24 19:01:29"/>
-      <a name="version" val="2.16.8.t"/>
-      <a name="uuid" val="1623dae5-b579-4638-8865-75caee666eb3"/>
-      <a name="integrity" val="b03eaa6961a6c521a5f70dd66dbddbc4a968f07b"/>
-    </comp>
-    <comp lib="4" loc="(1310,350)" name="Register">
-      <a name="width" val="16"/>
-      <a name="label" val="R3"/>
-      <a name="showInTab" val="true"/>
-      <a name="owner" val="gwendal_piemonte"/>
-      <a name="date" val="18.03.24 19:01:31"/>
-      <a name="version" val="2.16.8.t"/>
-      <a name="uuid" val="c6cfe7b5-1625-455b-b735-2289b7541bda"/>
-      <a name="integrity" val="301f5816a4a39e2a3f8d2037784525fd7f1691ae"/>
-    </comp>
-    <comp lib="4" loc="(1310,540)" name="Register">
+    <comp lib="4" loc="(1370,290)" name="Register">
       <a name="width" val="16"/>
       <a name="label" val="PC"/>
       <a name="showInTab" val="true"/>
@@ -8916,91 +8928,164 @@ end TCL_Generic;
       <a name="uuid" val="e7638e21-4a6a-4230-8fa3-c312dbba4e3b"/>
       <a name="integrity" val="537c119aec97fc0940e38815c36fe85ea792722d"/>
     </comp>
-    <comp lib="0" loc="(580,420)" name="Tunnel">
+    <comp lib="4" loc="(720,290)" name="Register">
+      <a name="width" val="16"/>
+      <a name="label" val="R4"/>
+      <a name="showInTab" val="true"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 19:01:34"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="9d674ec4-23b4-4f62-8641-5b9b6f26ec6d"/>
+      <a name="integrity" val="3a63e5cb8baddd953a1bc67ccce8ddfbf399d0a1"/>
+    </comp>
+    <comp lib="0" loc="(1090,150)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="R2"/>
+    </comp>
+    <comp lib="0" loc="(560,170)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="clk_s"/>
     </comp>
-    <comp lib="0" loc="(580,450)" name="Tunnel">
+    <comp lib="4" loc="(720,100)" name="Register">
+      <a name="width" val="16"/>
+      <a name="label" val="R0"/>
+      <a name="showInTab" val="true"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 19:01:16"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="8421f93e-4648-4168-87c7-7bfa96253854"/>
+      <a name="integrity" val="c49c766cc6dc8bf283bbdb4a5364b8c55930e1ef"/>
+    </comp>
+    <comp lib="0" loc="(890,340)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="SP"/>
+    </comp>
+    <comp lib="0" loc="(1200,320)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="LR_o"/>
+    </comp>
+    <comp lib="0" loc="(1180,130)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="R2_o"/>
+    </comp>
+    <comp lib="0" loc="(980,130)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="R1_o"/>
+    </comp>
+    <comp lib="0" loc="(1370,130)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="R3_o"/>
+    </comp>
+    <comp lib="0" loc="(890,150)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="R1"/>
+    </comp>
+    <comp lib="0" loc="(1360,340)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="write_en_PC"/>
+    </comp>
+    <comp lib="0" loc="(710,340)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="R4"/>
+    </comp>
+    <comp lib="0" loc="(970,320)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="SP_o"/>
+    </comp>
+    <comp lib="0" loc="(1350,320)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="PC_data_o"/>
+    </comp>
+    <comp lib="4" loc="(900,290)" name="Register">
+      <a name="width" val="16"/>
+      <a name="label" val="SP"/>
+      <a name="showInTab" val="true"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 19:01:37"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="b4ae7d8a-cf36-4440-b91f-03f79b604b70"/>
+      <a name="integrity" val="23c1d2bf1d71cc21d81d5b9794782cc6756d8e2d"/>
+    </comp>
+    <comp lib="0" loc="(560,200)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="rst_s"/>
     </comp>
-    <comp lib="0" loc="(660,480)" name="Tunnel">
+    <comp lib="4" loc="(1290,100)" name="Register">
+      <a name="width" val="16"/>
+      <a name="label" val="R3"/>
+      <a name="showInTab" val="true"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 19:01:31"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="c6cfe7b5-1625-455b-b735-2289b7541bda"/>
+      <a name="integrity" val="301f5816a4a39e2a3f8d2037784525fd7f1691ae"/>
+    </comp>
+    <comp lib="0" loc="(1120,340)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="LR_wr_en_o"/>
+    </comp>
+    <comp lib="4" loc="(1130,290)" name="Register">
+      <a name="width" val="16"/>
+      <a name="label" val="LR"/>
+      <a name="showInTab" val="true"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 19:01:39"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="bf5fc6d5-5ba1-4dce-8590-7f60bdf87449"/>
+      <a name="integrity" val="7eb4a4655cdcb7ad5f855ec99143207e1408df66"/>
+    </comp>
+    <comp lib="0" loc="(800,130)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="R0_o"/>
+    </comp>
+    <comp lib="0" loc="(710,150)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="R0"/>
+    </comp>
+    <comp lib="0" loc="(1110,320)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="LR_data_o"/>
+    </comp>
+    <comp lib="0" loc="(790,320)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="R4_o"/>
+    </comp>
+    <comp lib="0" loc="(1280,150)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="R3"/>
+    </comp>
+    <comp lib="0" loc="(1440,320)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="PC_o"/>
+    </comp>
+    <comp lib="0" loc="(640,230)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="16"/>
       <a name="label" val="reg_write_data_s"/>
     </comp>
-    <comp lib="0" loc="(730,400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="R0"/>
-    </comp>
-    <comp lib="0" loc="(910,400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="R1"/>
-    </comp>
-    <comp lib="0" loc="(1110,400)" name="Tunnel">
-      <a name="facing" val="east"/>
+    <comp lib="4" loc="(1100,100)" name="Register">
+      <a name="width" val="16"/>
       <a name="label" val="R2"/>
-    </comp>
-    <comp lib="0" loc="(1300,400)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="R3"/>
-    </comp>
-    <comp lib="0" loc="(730,590)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="R4"/>
-    </comp>
-    <comp lib="0" loc="(910,590)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="SP"/>
-    </comp>
-    <comp lib="0" loc="(1110,590)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="LR"/>
-    </comp>
-    <comp lib="0" loc="(1300,590)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="PC"/>
-    </comp>
-    <comp lib="0" loc="(720,280)" name="Tunnel">
-      <a name="label" val="PC"/>
-    </comp>
-    <comp lib="0" loc="(720,260)" name="Tunnel">
-      <a name="label" val="LR"/>
-    </comp>
-    <comp lib="0" loc="(720,160)" name="Tunnel">
-      <a name="label" val="R1"/>
-    </comp>
-    <comp lib="2" loc="(580,140)" name="Decoder">
-      <a name="selloc" val="tr"/>
-      <a name="select" val="3"/>
-      <a name="enable" val="false"/>
+      <a name="showInTab" val="true"/>
       <a name="owner" val="gwendal_piemonte"/>
-      <a name="date" val="18.03.24 19:20:31"/>
+      <a name="date" val="18.03.24 19:01:29"/>
       <a name="version" val="2.16.8.t"/>
-      <a name="uuid" val="f0440501-7622-49f0-bf33-0139a7f65c8d"/>
-      <a name="integrity" val="8ca9d34555ce81f3403455f685f3e7e26cc7cd02"/>
+      <a name="uuid" val="1623dae5-b579-4638-8865-75caee666eb3"/>
+      <a name="integrity" val="b03eaa6961a6c521a5f70dd66dbddbc4a968f07b"/>
     </comp>
-    <comp lib="0" loc="(580,110)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="3"/>
-      <a name="label" val="reg_d_sel_s"/>
+    <comp lib="4" loc="(900,100)" name="Register">
+      <a name="width" val="16"/>
+      <a name="label" val="R1"/>
+      <a name="showInTab" val="true"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 19:01:27"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="a92d951b-4810-46fe-a4a1-59f641d5fa75"/>
+      <a name="integrity" val="8779c121a0f971efd8ba18d19c50fb283bfe18ae"/>
     </comp>
-    <comp lib="0" loc="(720,140)" name="Tunnel">
-      <a name="label" val="R0"/>
-    </comp>
-    <comp lib="0" loc="(720,180)" name="Tunnel">
-      <a name="label" val="R2"/>
-    </comp>
-    <comp lib="0" loc="(720,220)" name="Tunnel">
-      <a name="label" val="R4"/>
-    </comp>
-    <comp lib="0" loc="(720,200)" name="Tunnel">
-      <a name="label" val="R3"/>
-    </comp>
-    <comp lib="0" loc="(720,240)" name="Tunnel">
-      <a name="label" val="SP"/>
-    </comp>
-    <comp lib="0" loc="(1750,280)" name="Pin">
+    <comp lib="0" loc="(1760,250)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="16"/>
@@ -9013,7 +9098,12 @@ end TCL_Generic;
       <a name="uuid" val="eee9e8bf-c50c-4f51-8b65-9a62e8eca9a0"/>
       <a name="integrity" val="cbc7142052acd5491c911dbc0db69e6a38d68f8e"/>
     </comp>
-    <comp lib="0" loc="(1750,240)" name="Pin">
+    <comp lib="0" loc="(1710,170)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="reg_n_read_data_s"/>
+    </comp>
+    <comp lib="0" loc="(1760,210)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="16"/>
@@ -9026,30 +9116,17 @@ end TCL_Generic;
       <a name="uuid" val="b0fe82af-f799-43d8-bfcb-751f64cd2088"/>
       <a name="integrity" val="4e7a785e381206092b731c854bc3973de2d71504"/>
     </comp>
-    <comp lib="0" loc="(1570,160)" name="Tunnel">
+    <comp lib="0" loc="(1710,130)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="16"/>
       <a name="label" val="reg_s_read_data_s"/>
     </comp>
-    <comp lib="0" loc="(1620,160)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="width" val="16"/>
-      <a name="label" val="register_s_read_data_o"/>
-      <a name="labelloc" val="east"/>
-      <a name="radix" val="16"/>
-      <a name="owner" val="mim"/>
-      <a name="date" val="16.01.20 11:33:21"/>
-      <a name="version" val="2.14.7.t"/>
-      <a name="uuid" val="35d586b1-b1a1-4b34-b48f-595aa6c02315"/>
-      <a name="integrity" val="d8e9883c301f0d42848117b78957718d538fadca"/>
-    </comp>
-    <comp lib="0" loc="(1570,200)" name="Tunnel">
+    <comp lib="0" loc="(1730,250)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="width" val="16"/>
-      <a name="label" val="reg_n_read_data_s"/>
+      <a name="label" val="PC_pres"/>
     </comp>
-    <comp lib="0" loc="(1620,200)" name="Pin">
+    <comp lib="0" loc="(1760,170)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="16"/>
@@ -9062,13 +9139,296 @@ end TCL_Generic;
       <a name="uuid" val="0bdbc194-af3a-4934-a125-3525e804b4b4"/>
       <a name="integrity" val="1be396c002dfeb33216941e250042a82355fad09"/>
     </comp>
-    <comp lib="0" loc="(900,110)" name="Tunnel">
+    <comp lib="0" loc="(1740,210)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="reg_mem_read_data_s"/>
+    </comp>
+    <comp lib="0" loc="(1760,130)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="width" val="16"/>
+      <a name="label" val="register_s_read_data_o"/>
+      <a name="labelloc" val="east"/>
+      <a name="radix" val="16"/>
+      <a name="owner" val="mim"/>
+      <a name="date" val="16.01.20 11:33:21"/>
+      <a name="version" val="2.14.7.t"/>
+      <a name="uuid" val="35d586b1-b1a1-4b34-b48f-595aa6c02315"/>
+      <a name="integrity" val="d8e9883c301f0d42848117b78957718d538fadca"/>
+    </comp>
+    <comp lib="0" loc="(1270,610)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="PC_data_o"/>
+    </comp>
+    <comp lib="0" loc="(1980,660)" name="Tunnel">
+      <a name="label" val="SP"/>
+    </comp>
+    <comp lib="2" loc="(1230,610)" name="Multiplexer">
+      <a name="selloc" val="tr"/>
+      <a name="width" val="16"/>
+      <a name="enable" val="false"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 21:01:37"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="8a2d2a41-3b0b-4175-9b2f-f5e65e79f1b8"/>
+      <a name="integrity" val="4b71b77102c3656dc48f92c4db98d4b970bd4efb"/>
+    </comp>
+    <comp lib="0" loc="(1120,780)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="reg_write_data_s"/>
+    </comp>
+    <comp lib="0" loc="(1980,560)" name="Tunnel">
+      <a name="label" val="R0"/>
+    </comp>
+    <comp lib="8" loc="(653,483)" name="Text">
+      <a name="text" val="Sélection des registres de lecture (source) :"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1980,580)" name="Tunnel">
+      <a name="label" val="R1"/>
+    </comp>
+    <comp lib="0" loc="(780,600)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="reg_s_read_data_s"/>
+    </comp>
+    <comp loc="(1360,780)" name="LR_manager"/>
+    <comp lib="0" loc="(570,560)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="R0_o"/>
+    </comp>
+    <comp lib="0" loc="(730,860)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="3"/>
+      <a name="label" val="reg_mem_sel_s"/>
+    </comp>
+    <comp lib="0" loc="(1050,600)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="PC_fut_s"/>
+    </comp>
+    <comp lib="0" loc="(570,680)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="LR_o"/>
+    </comp>
+    <comp lib="0" loc="(1390,800)" name="Tunnel">
+      <a name="label" val="LR_wr_en_o"/>
+    </comp>
+    <comp lib="0" loc="(1070,820)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="LR_addr_s"/>
+    </comp>
+    <comp lib="8" loc="(1630,493)" name="Text">
+      <a name="text" val="Enable de la banque de registres"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="2" loc="(750,770)" name="Multiplexer">
+      <a name="selloc" val="tr"/>
+      <a name="select" val="3"/>
+      <a name="width" val="16"/>
+      <a name="enable" val="false"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 20:22:14"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="4e058286-c9b9-4680-aa4b-ff05a045165f"/>
+      <a name="integrity" val="00fad6297614070924376d2dc7799755fecaa5f6"/>
+    </comp>
+    <comp lib="0" loc="(1400,780)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="LR_data_o"/>
+    </comp>
+    <comp lib="0" loc="(570,640)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="R4_o"/>
+    </comp>
+    <comp lib="2" loc="(750,600)" name="Multiplexer">
+      <a name="selloc" val="tr"/>
+      <a name="select" val="3"/>
+      <a name="width" val="16"/>
+      <a name="enable" val="false"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 20:22:14"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="f826ca60-ee3f-476c-b3a3-3a8a80efb1b3"/>
+      <a name="integrity" val="e4fab5102f608bc3e2b0ef727ec2b59df6f10eaf"/>
+    </comp>
+    <comp lib="0" loc="(1980,680)" name="Tunnel">
+      <a name="label" val="LR"/>
+    </comp>
+    <comp lib="2" loc="(1860,560)" name="Decoder">
+      <a name="selloc" val="tr"/>
+      <a name="select" val="3"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 19:20:31"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="f0440501-7622-49f0-bf33-0139a7f65c8d"/>
+      <a name="integrity" val="8ca9d34555ce81f3403455f685f3e7e26cc7cd02"/>
+    </comp>
+    <comp lib="0" loc="(570,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="R1_o"/>
+    </comp>
+    <comp lib="8" loc="(1054,755)" name="Text">
+      <a name="text" val="Management du LR :"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1060,880)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="link_en_s"/>
+    </comp>
+    <comp lib="0" loc="(570,660)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="SP_o"/>
+    </comp>
+    <comp lib="2" loc="(750,930)" name="Multiplexer">
+      <a name="selloc" val="tr"/>
+      <a name="select" val="3"/>
+      <a name="width" val="16"/>
+      <a name="enable" val="false"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 20:22:14"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="a27195ab-76dc-4384-b69e-3a4d400e9c79"/>
+      <a name="integrity" val="3740b5c383046f9c51e4717eada032aeebb162aa"/>
+    </comp>
+    <comp lib="0" loc="(780,770)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="reg_n_read_data_s"/>
+    </comp>
+    <comp lib="0" loc="(570,600)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="R2_o"/>
+    </comp>
+    <comp lib="0" loc="(1690,580)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="2"/>
+      <a name="label" val="reg_bank_control_bus"/>
+    </comp>
+    <comp lib="8" loc="(1113,492)" name="Text">
+      <a name="text" val="Sélecteur (enables) des données pour le PC :"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="1" loc="(1120,560)" name="NOT Gate">
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 21:01:04"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="6c7c47d9-0820-4343-b05c-6cbfed2acb5b"/>
+      <a name="integrity" val="12a981c72cd74c1c96338f06ebe90c58e81d3d12"/>
+    </comp>
+    <comp lib="0" loc="(1060,840)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="branch_s"/>
+    </comp>
+    <comp lib="0" loc="(1980,640)" name="Tunnel">
+      <a name="label" val="R4"/>
+    </comp>
+    <comp lib="0" loc="(730,530)" name="Tunnel">
       <a name="facing" val="south"/>
       <a name="width" val="3"/>
       <a name="label" val="reg_s_sel_s"/>
     </comp>
-    <comp lib="8" loc="(644,72)" name="Text">
+    <comp lib="0" loc="(570,620)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="R3_o"/>
+    </comp>
+    <comp lib="0" loc="(1710,580)" name="Splitter">
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 20:44:21"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="c752195d-9933-48da-b7f6-0cf2e124716d"/>
+      <a name="integrity" val="3999df0a36cc24bbb8cea2d0daca0e82c61be1e1"/>
+    </comp>
+    <comp lib="0" loc="(730,700)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="3"/>
+      <a name="label" val="reg_n_sel_s"/>
+    </comp>
+    <comp lib="0" loc="(570,700)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="PC_o"/>
+    </comp>
+    <comp lib="1" loc="(1190,540)" name="AND Gate">
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 21:01:01"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="0369a8e1-bff4-4182-b05e-fe9976c752ce"/>
+      <a name="integrity" val="f1baee8ee70a3da986e8f7c01742f6252de52e76"/>
+    </comp>
+    <comp lib="0" loc="(1030,900)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="clk_s"/>
+    </comp>
+    <comp lib="0" loc="(1110,630)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="reg_write_data_s"/>
+    </comp>
+    <comp lib="0" loc="(1860,530)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="3"/>
+      <a name="label" val="reg_d_sel_s"/>
+    </comp>
+    <comp lib="1" loc="(1790,550)" name="AND Gate">
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="18.03.24 20:43:38"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="e5e35c4c-c61a-46dd-b37b-04f984d401a7"/>
+      <a name="integrity" val="160c71a4bd4719d4033a4e37cb271dfda3f2cd9b"/>
+    </comp>
+    <comp lib="0" loc="(1060,560)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="link_en_s"/>
+    </comp>
+    <comp lib="0" loc="(1640,530)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="reg_bank_en_s"/>
+    </comp>
+    <comp lib="0" loc="(1060,800)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="16"/>
+      <a name="label" val="PC_fut_s"/>
+    </comp>
+    <comp lib="0" loc="(1980,620)" name="Tunnel">
+      <a name="label" val="R3"/>
+    </comp>
+    <comp lib="0" loc="(1980,600)" name="Tunnel">
+      <a name="label" val="R2"/>
+    </comp>
+    <comp lib="0" loc="(1020,860)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="LR"/>
+    </comp>
+    <comp lib="8" loc="(1922,496)" name="Text">
       <a name="text" val="Sélection du registre de destination"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1030,920)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="rst_s"/>
+    </comp>
+    <comp lib="0" loc="(760,930)" name="Tunnel">
+      <a name="width" val="16"/>
+      <a name="label" val="reg_mem_read_data_s"/>
+    </comp>
+    <comp lib="0" loc="(1080,520)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="write_en_PC"/>
+    </comp>
+    <comp lib="0" loc="(1910,700)" name="Tunnel">
+      <a name="label" val="write_en_PC"/>
+    </comp>
+    <comp lib="8" loc="(568,70)" name="Text">
+      <a name="text" val="Banque de registre :"/>
       <a name="font" val="SansSerif plain 12"/>
     </comp>
     <comp lib="7" loc="(4,50)" name="Text" trackercomp="true">
