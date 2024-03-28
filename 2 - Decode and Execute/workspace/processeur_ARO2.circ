@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project integrity="5b2a8fad4041a35b4dde7fc7f30dcfac2f4767ae" source="2.16.8.t" version="1.0">
+<project integrity="ce520a93ccd69b42bdd74992ce101472436b684d" source="2.16.8.t" version="1.0">
   This file is intended to be loaded by Logisim-evolution (https://github.com/reds-heig/logisim-evolution).
 
   <lib desc="#Wiring" name="0">
@@ -12865,8 +12865,8 @@ end TCL_Generic;
     <wire from="(580,960)" to="(700,960)"/>
     <wire from="(570,330)" to="(570,340)"/>
     <wire from="(580,980)" to="(580,990)"/>
-    <wire from="(1140,540)" to="(1140,560)"/>
     <wire from="(1110,430)" to="(1110,450)"/>
+    <wire from="(1140,580)" to="(1140,600)"/>
     <wire from="(620,260)" to="(670,260)"/>
     <wire from="(1090,420)" to="(1130,420)"/>
     <wire from="(560,90)" to="(600,90)"/>
@@ -12900,7 +12900,7 @@ end TCL_Generic;
     <wire from="(620,70)" to="(620,80)"/>
     <wire from="(1170,430)" to="(1210,430)"/>
     <wire from="(1120,410)" to="(1120,440)"/>
-    <wire from="(1170,610)" to="(1230,610)"/>
+    <wire from="(1170,650)" to="(1230,650)"/>
     <wire from="(590,950)" to="(700,950)"/>
     <wire from="(590,990)" to="(700,990)"/>
     <wire from="(1150,400)" to="(1150,410)"/>
@@ -12927,18 +12927,18 @@ end TCL_Generic;
     <wire from="(580,980)" to="(700,980)"/>
     <wire from="(570,390)" to="(570,400)"/>
     <wire from="(1140,360)" to="(1140,380)"/>
-    <wire from="(1110,610)" to="(1110,630)"/>
+    <wire from="(1110,650)" to="(1110,670)"/>
     <wire from="(560,110)" to="(600,110)"/>
     <wire from="(550,740)" to="(590,740)"/>
     <wire from="(590,420)" to="(630,420)"/>
     <wire from="(650,430)" to="(650,460)"/>
-    <wire from="(1070,600)" to="(1130,600)"/>
+    <wire from="(1070,640)" to="(1130,640)"/>
     <wire from="(600,940)" to="(700,940)"/>
-    <wire from="(1120,580)" to="(1120,590)"/>
+    <wire from="(1120,620)" to="(1120,630)"/>
     <wire from="(620,120)" to="(620,140)"/>
     <wire from="(590,930)" to="(590,950)"/>
     <wire from="(650,390)" to="(650,410)"/>
-    <wire from="(1120,620)" to="(1130,620)"/>
+    <wire from="(1120,660)" to="(1130,660)"/>
     <wire from="(550,790)" to="(580,790)"/>
     <wire from="(620,140)" to="(650,140)"/>
     <wire from="(650,140)" to="(650,240)"/>
@@ -12950,11 +12950,11 @@ end TCL_Generic;
     <wire from="(710,250)" to="(720,250)"/>
     <wire from="(570,990)" to="(580,990)"/>
     <wire from="(570,950)" to="(580,950)"/>
-    <wire from="(1070,630)" to="(1110,630)"/>
-    <wire from="(1120,590)" to="(1120,620)"/>
+    <wire from="(1070,670)" to="(1110,670)"/>
+    <wire from="(1120,630)" to="(1120,660)"/>
     <wire from="(570,890)" to="(610,890)"/>
     <wire from="(600,910)" to="(600,940)"/>
-    <wire from="(1150,580)" to="(1150,590)"/>
+    <wire from="(1150,620)" to="(1150,630)"/>
     <wire from="(570,440)" to="(570,460)"/>
     <wire from="(670,100)" to="(670,140)"/>
     <wire from="(550,650)" to="(570,650)"/>
@@ -12964,7 +12964,7 @@ end TCL_Generic;
     <wire from="(620,600)" to="(640,600)"/>
     <wire from="(650,430)" to="(670,430)"/>
     <wire from="(730,470)" to="(750,470)"/>
-    <wire from="(1120,590)" to="(1130,590)"/>
+    <wire from="(1120,630)" to="(1130,630)"/>
     <wire from="(570,180)" to="(600,180)"/>
     <wire from="(520,370)" to="(550,370)"/>
     <wire from="(520,410)" to="(550,410)"/>
@@ -12979,7 +12979,7 @@ end TCL_Generic;
     <wire from="(620,210)" to="(620,260)"/>
     <wire from="(680,350)" to="(690,350)"/>
     <wire from="(740,970)" to="(750,970)"/>
-    <wire from="(1110,610)" to="(1130,610)"/>
+    <wire from="(1110,650)" to="(1130,650)"/>
     <comp lib="3" loc="(640,100)" name="Adder">
       <a name="width" val="15"/>
       <a name="owner" val="mim"/>
@@ -13604,23 +13604,6 @@ end TCL_Generic;
       <a name="facing" val="south"/>
       <a name="value" val="0x0"/>
     </comp>
-    <comp lib="0" loc="(1140,560)" name="Splitter">
-      <a name="facing" val="south"/>
-      <a name="fanout" val="1"/>
-      <a name="incoming" val="3"/>
-      <a name="owner" val="gwendal_piemonte"/>
-      <a name="date" val="19.03.24 17:57:43"/>
-      <a name="version" val="2.16.8.t"/>
-      <a name="uuid" val="fcf84fba-272a-43b1-b0f0-e3fae7412710"/>
-      <a name="integrity" val="cfdca8c03009d4731959a84026138093f9b2072b"/>
-      <a name="bit1" val="0"/>
-      <a name="bit2" val="none"/>
-    </comp>
-    <comp lib="0" loc="(1140,540)" name="Tunnel">
-      <a name="facing" val="south"/>
-      <a name="width" val="3"/>
-      <a name="label" val="sel_op_alu_s"/>
-    </comp>
     <comp lib="2" loc="(1170,430)" name="Multiplexer">
       <a name="selloc" val="tr"/>
       <a name="select" val="2"/>
@@ -13659,7 +13642,11 @@ end TCL_Generic;
       <a name="facing" val="east"/>
       <a name="label" val="overflow_add_s"/>
     </comp>
-    <comp lib="2" loc="(1170,610)" name="Multiplexer">
+    <comp lib="0" loc="(1120,400)" name="Constant">
+      <a name="facing" val="south"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="2" loc="(1170,650)" name="Multiplexer">
       <a name="selloc" val="tr"/>
       <a name="select" val="2"/>
       <a name="enable" val="false"/>
@@ -13669,24 +13656,45 @@ end TCL_Generic;
       <a name="uuid" val="b0475b4f-cb7e-41e8-9743-26518622a866"/>
       <a name="integrity" val="e9a40ccff7de3512067400a5f9d4338bd646c558"/>
     </comp>
-    <comp lib="0" loc="(1070,600)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="carry_add_s"/>
-    </comp>
-    <comp lib="0" loc="(1070,630)" name="Tunnel">
+    <comp lib="0" loc="(1070,670)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="carry_sub_s"/>
     </comp>
-    <comp lib="0" loc="(1230,610)" name="Tunnel">
+    <comp lib="0" loc="(1230,650)" name="Tunnel">
       <a name="label" val="carry_s"/>
     </comp>
-    <comp lib="0" loc="(1120,580)" name="Constant">
+    <comp lib="0" loc="(1120,620)" name="Constant">
       <a name="facing" val="south"/>
       <a name="value" val="0x0"/>
     </comp>
-    <comp lib="0" loc="(1120,400)" name="Constant">
+    <comp lib="0" loc="(1070,640)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="carry_add_s"/>
+    </comp>
+    <comp lib="8" loc="(1033,541)" name="Text">
+      <a name="text" val="Gestion de la carry :"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1140,600)" name="Splitter">
       <a name="facing" val="south"/>
-      <a name="value" val="0x0"/>
+      <a name="fanout" val="1"/>
+      <a name="incoming" val="3"/>
+      <a name="owner" val="gwendal_piemonte"/>
+      <a name="date" val="19.03.24 17:57:43"/>
+      <a name="version" val="2.16.8.t"/>
+      <a name="uuid" val="fcf84fba-272a-43b1-b0f0-e3fae7412710"/>
+      <a name="integrity" val="cfdca8c03009d4731959a84026138093f9b2072b"/>
+      <a name="bit1" val="0"/>
+      <a name="bit2" val="none"/>
+    </comp>
+    <comp lib="0" loc="(1140,580)" name="Tunnel">
+      <a name="facing" val="south"/>
+      <a name="width" val="3"/>
+      <a name="label" val="sel_op_alu_s"/>
+    </comp>
+    <comp lib="8" loc="(1038,321)" name="Text">
+      <a name="text" val="Gestion de l'overflow :"/>
+      <a name="font" val="SansSerif plain 12"/>
     </comp>
     <comp lib="7" loc="(4,50)" name="Text" trackercomp="true">
       <a name="text" val="Attention, votre version de Logisim"/>
