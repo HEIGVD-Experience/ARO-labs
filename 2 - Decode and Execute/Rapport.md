@@ -8,7 +8,7 @@ correctement.
 
 ![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Q1.png)
 
-on peut voirt quer le PC s'incrémente correctement.
+On peut voirt quer le PC s'incrémente correctement.
 
 
 
