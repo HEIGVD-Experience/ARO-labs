@@ -6,6 +6,11 @@ dans la mémoire d’ instruction.
 Faites le chronogramme de l’execution de votre programme et vérifiez que le registre PC s’incrémente
 correctement.
 
+![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Q1.png)
+
+on peut voirt quer le PC s'incrémente correctement.
+
+
 
 ## Question 2
 > Lors d’une opération de type "Addition/substraction (add/substract)", sur quelles sorties de
