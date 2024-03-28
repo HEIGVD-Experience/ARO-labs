@@ -26,3 +26,5 @@ code ? Et pour les 4 instructions avec un offset immédiat ?
 
 ## Eatpe 5.2
 > Phase de test du circuit.
+
+![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Etape5_2.png)
