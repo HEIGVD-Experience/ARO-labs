@@ -37,6 +37,31 @@ et que l'offset se trouve sur les bit allant de **0** à **7** inclu **(offset8_
 ## Question 4
 > Pour les 4 instructions travaillant uniquement avec des registres, quel est le nombre de bits de l’opcode ? Et pour les 4 instructions avec un offset immédiat ?
 
+Pour les 4 instructions travaillant uniquement avec des registres :
+
+Le nombre de bits de l'opcode est de **7 (bits allant de 9 à 15 inclu)**.
+
+**strb_r_r_r et ldrb_r_r_r** :
+
+![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Q4_1.png)
+
+Pour **strh_r_r_r et ldrh_r_r_r** :
+
+![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Q4_2.png)   
+   
+
+Pour les 4 instructions avec un offset immédiat :
+
+Le nombre de bits de l'opcode est de **5 (bits allant de 11 à 15 inclu)**.
+
+Pour **strb_r_r_imm et ldrb_r_r_imm** 
+
+![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Q4_3.png)
+
+Pour **strh_r_r_imm et ldrh_r_r_imm** :
+
+![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Q4_4.png)
+
 ## Eatpe 5.2
 > Phase de test du circuit.
 
