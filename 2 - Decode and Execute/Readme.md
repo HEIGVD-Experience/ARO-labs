@@ -16,6 +16,13 @@ On peut voirt quer le PC s'incrémente correctement.
 > Lors d’une opération de type "Addition/substraction (add/substract)", sur quelles sorties de
 decode_isntr_splitter pourriez vous lire les informations indiquant les registres et offsets utilisés ?
 
+![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Q2.png)
+
+
+En suivant ce schéma on peut voir que le registre de destination est indiqué par les bits allant de 0 à 2 inclu, **(rd_2_0_o)**   
+le registre source est lui indiqué par les bits allant de 3 à 5 inclu **(rs_5_3_o)**   
+et que l'offset se trouve sur les bit allant de 6 à 8 inclu. **(offset3_8_6_o ou rn_8_6_o)**   
+
 
 ## Question 3
 > Lors d’une opération de type "Branchement/saut conditionnel (conditional branch)", sur quelles sor-
