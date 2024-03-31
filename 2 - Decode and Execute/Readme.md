@@ -19,13 +19,19 @@ decode_isntr_splitter pourriez vous lire les informations indiquant les registre
 ![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Q2.png)
 
 
-En suivant ce schéma on peut voir que le registre de destination est indiqué par les bits allant de 0 à 2 inclu, **(rd_2_0_o)**   
-le registre source est lui indiqué par les bits allant de 3 à 5 inclu **(rs_5_3_o)**   
-et que l'offset se trouve sur les bit allant de 6 à 8 inclu. **(offset3_8_6_o ou rn_8_6_o)**   
+En suivant ce schéma on peut voir que le registre de destination est indiqué par les bits allant de **0** à **2** inclu, **(rd_2_0_o)**   
+le registre source est lui indiqué par les bits allant de **3** à **5** inclu **(rs_5_3_o)**   
+et que l'offset se trouve sur les bit allant de **6** à **8** inclu. **(offset3_8_6_o ou rn_8_6_o)**   
 
 
 ## Question 3
 > Lors d’une opération de type "Branchement/saut conditionnel (conditional branch)", sur quelles sorties de decode_isntr_splitter pourriez vous lire les informations indiquant les bits de condition et l’offset utilisés ?
+
+![img](https://github.com/truebguillaume/ARO-Labs/blob/main/2%20-%20Decode%20and%20Execute/img/Q3.png)
+
+
+En suivant ce schéma on peut voir que les bits de conditions sont ceux allant de **8** à **11** inclu **(cond_11_8_o)**   
+et que l'offset se trouve sur les bit allant de **0** à **7** inclu. **(offset8_7_0_o)**   
 
 
 ## Question 4
