@@ -25,16 +25,11 @@ et que l'offset se trouve sur les bit allant de 6 à 8 inclu. **(offset3_8_6_o o
 
 
 ## Question 3
-> Lors d’une opération de type "Branchement/saut conditionnel (conditional branch)", sur quelles sor-
-ties de decode_isntr_splitter pourriez vous lire les informations indiquant les bits de condition et l’off-
-set utilisés ?
-Référez-vous au manuel ARM7-TDMI-manual-pt3 que vous trouverez sur le site Cyberlearn afin
-d’identifier le formatage du set d’instruction THUMB.
+> Lors d’une opération de type "Branchement/saut conditionnel (conditional branch)", sur quelles sorties de decode_isntr_splitter pourriez vous lire les informations indiquant les bits de condition et l’offset utilisés ?
 
 
 ## Question 4
-> Pour les 4 instructions travaillant uniquement avec des registres, quel est le nombre de bits de l’op-
-code ? Et pour les 4 instructions avec un offset immédiat ?
+> Pour les 4 instructions travaillant uniquement avec des registres, quel est le nombre de bits de l’opcode ? Et pour les 4 instructions avec un offset immédiat ?
 
 ## Eatpe 5.2
 > Phase de test du circuit.
