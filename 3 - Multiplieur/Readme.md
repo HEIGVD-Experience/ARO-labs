@@ -14,3 +14,5 @@
 |0 x 6    |0       |0   |
 |4 x 4    |16      |10  |
 |2 x 3    |6       |6   |
+
+On peut voir que la sequence est juste. Elle se repete ensuite.
