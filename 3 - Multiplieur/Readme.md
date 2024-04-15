@@ -17,4 +17,10 @@
 
 On peut voir que la séquence est juste. Elle se répéte ensuite.
 
-## Comprenez le fonctionnement du pipeline et le rôle des registres. Quels sont les largeurs de bus pour chaque étage du circuit ? Pourquoi ?
+## Quels sont les largeurs de bus pour chaque étage du circuit ? Pourquoi ?
+La taille du resultat d'une multiplication binaire vaut nbBitsOp1 + nbBitsOp2.
+   
+Dans notre cas 5 + 3 donc 8 bits.
+
+Avant le premier registre on commence donc par 5 bits en en ajoutant 1 de plus donc 6, 
+puis avant le deuxieme registre on en ajoute un autre puis pour terminer un dermier avent le troisieme registre pourt finalement arriver à 8 bits.
