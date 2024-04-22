@@ -50,7 +50,7 @@ mov r0,#0x33
 ## Question 3
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q3.png)
 ```assembly
-@ programme 3 - Le programme comprend 1 erreurs !
+@ programme 3 - Le programme comprend 1 erreur !
 mov r0,#0x3E
 mov r1,#3
 mov r2,#8
@@ -77,7 +77,7 @@ mov r0,#0x33
 ## Question 4
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q4.png)
 ```assembly
-@ programme 4
+@ programme 4 - Le programme comprend 0 erreur !
 mov r0,#0x3E
 mov r1,#3
 mov r2,#8
