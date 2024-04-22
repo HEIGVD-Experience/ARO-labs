@@ -1,5 +1,6 @@
 # Labo 4 PipeLine Analyse - G.Piemontesi G.Trueb
 ## Question 1
+### Le programme complet s’exécute-t-il correctement avec les bonnes valeurs obtenues dans les registres ? Si des valeurs ne correspondent pas aux résultats attendu, identifier les et annoter le chronogramme.
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q1.png)
 
 ```assembly
@@ -23,6 +24,7 @@ mov r0,#0x33
 ```
 
 ## Question 2
+### Le programme complet s’exécute-t-il correctement avec les bonnes valeurs obtenues dans les registres ? Si des valeurs ne correspondent pas aux résultats attendu, identifier les et annoter le chronogramme.
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q3.png)
 ```assembly
 @ programme 2 - Le programme comprend 2 erreurs !
@@ -48,6 +50,7 @@ mov r0,#0x33
 ```
 
 ## Question 3
+### Le programme complet s’exécute-t-il correctement avec les bonnes valeurs obtenues dans les registres ? Si des valeurs ne correspondent pas aux résultats attendu, identifier les et annoter le chronogramme.
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q3.png)
 ```assembly
 @ programme 3 - Le programme comprend 1 erreur !
@@ -75,6 +78,7 @@ mov r0,#0x33
 ```
 
 ## Question 4
+### Le programme complet s’exécute-t-il correctement avec les bonnes valeurs obtenues dans les registres ? Si des valeurs ne correspondent pas aux résultats attendu, identifier les et annoter le chronogramme.
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q4.png)
 ```assembly
 @ programme 4 - Le programme comprend 0 erreur !
