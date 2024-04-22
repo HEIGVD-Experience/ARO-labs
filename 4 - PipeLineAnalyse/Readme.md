@@ -105,3 +105,4 @@ nop
 add r2,r1
 mov r0,#0x33
 ```
+On peut voir que les nops ont leurs importances et permettent de "synchroniser" le programme pour que celui-ci marche de manière pipeliné. Ils permettent aussi de laisser le temps le temps aux données d'arriver au bon endroit à temps et de ne pas "louper le train" du programme.
