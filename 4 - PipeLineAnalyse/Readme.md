@@ -78,7 +78,7 @@ mov r0,#0x33
 ```
 
 ## Question 4
-### Le programme complet s’exécute-t-il correctement avec les bonnes valeurs obtenues dans les registres ? Si des valeurs ne correspondent pas aux résultats attendu, identifier les et annoter le chronogramme.
+### Le programme complet s’exécute-t-il correctement avec les bonnes valeurs obtenues dans les registres ? Si des valeurs ne correspondent pas aux résultats attendu, identifier les et annoter le chronogramme.Que pouvez vous remarquer entre le nombre de NOP utilisés, leurs position dans le programme, et le lien avec les instructions d’avant ou d’après ?
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q4.png)
 ```assembly
 @ programme 4 - Le programme comprend 0 erreur !
