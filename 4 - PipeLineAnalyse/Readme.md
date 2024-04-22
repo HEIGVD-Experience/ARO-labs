@@ -2,11 +2,102 @@
 ## Question 1
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q1.png)
 
+```assembly
+@ programme 1
+mov r0,#0x3E
+mov r1,#3
+mov r2,#8
+mov r3,#0xa
+add r4,r0,r1
+sub r0,#0x10
+mov r5,#3
+add r3,#4
+mov r1,#27
+sub r1,r0,r3
+mov r0,#0x44
+mov r0,#0x45
+mov r0,#0x46
+lsl r1,r5
+add r2,r1
+mov r0,#0x33
+```
+
 ## Question 2
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q3.png)
+```assembly
+@ programme 2
+mov r0,#0x3E
+mov r1,#3
+mov r2,#8
+mov r3,#0xa
+nop
+add r4,r0,r1
+sub r0,#0x10
+mov r5,#3
+add r3,#4
+mov r1,#27
+nop
+sub r1,r0,r3
+mov r0,#0x44
+mov r0,#0x45
+mov r0,#0x46
+lsl r1,r5
+nop
+add r2,r1
+mov r0,#0x33
+```
 
 ## Question 3
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q3.png)
+```assembly
+@ programme 3
+mov r0,#0x3E
+mov r1,#3
+mov r2,#8
+mov r3,#0xa
+nop
+add r4,r0,r1
+sub r0,#0x10
+mov r5,#3
+add r3,#4
+mov r1,#27
+nop
+nop
+sub r1,r0,r3
+mov r0,#0x44
+mov r0,#0x45
+mov r0,#0x46
+lsl r1,r5
+nop
+nop
+add r2,r1
+mov r0,#0x33
+```
 
 ## Question 4
 ![q1](https://github.com/truebguillaume/ARO-Labs/blob/main/4%20-%20PipeLineAnalyse/img/Q4.png)
+```assembly
+@ programme 4
+mov r0,#0x3E
+mov r1,#3
+mov r2,#8
+mov r3,#0xa
+nop
+add r4,r0,r1
+sub r0,#0x10
+mov r5,#3
+add r3,#4
+mov r1,#27
+nop
+nop
+sub r1,r0,r3
+mov r0,#0x44
+mov r0,#0x45
+mov r0,#0x46
+lsl r1,r5
+nop
+nop
+nop
+add r2,r1
+mov r0,#0x33
+```
