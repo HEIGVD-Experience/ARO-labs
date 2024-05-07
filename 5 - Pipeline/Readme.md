@@ -43,4 +43,5 @@ En cas de détection d'un hazard de données, il faudra désactiver les enables 
 ## Question 9
 > Quel est le rôle des intructions NOP placées à la fin des programmes ? Tester avec et sans les instructions NOP.
 
-Les deux programmes s'exécutent de la même facon avec ou sans les NOP. La seule différence est que les programmes sont considérés comme terminés beaucoup plus tôt s'il n'y a pas de NOP. Leur utilité est donc de retarder le début du prochain programme exécuté par le processeur.
+Rien ne change entre les deux programmes, un va juste durer plus longtemeps que l'autre.
+Cela doit surement etre utile pour retarder si un autre programme vient apres le programme actuel.
