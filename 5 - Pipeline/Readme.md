@@ -37,8 +37,12 @@ En cas de détection d'un hazard de données, il faudra désactiver les enables 
 ## Question 7
 > Quel est l’IPC du programme (01_main.S) dans votre circuit logisim ? Pour ce calcul vous ne tiendrez pas compte des instructions NOP à la fin du programme ?
 
+![01](https://github.com/truebguillaume/ARO-Labs/blob/main/5%20-%20Pipeline/img/01.png)
+
 ## Question 8
 > Quel est l’IPC du programme (02_main.S) dans votre circuit logisim ? Pour ce calcul vous ne tiendrez pas compte des instructions NOP à la fin du programme ?
+
+![02](https://github.com/truebguillaume/ARO-Labs/blob/main/5%20-%20Pipeline/img/02.png)
 
 ## Question 9
 > Quel est le rôle des intructions NOP placées à la fin des programmes ? Tester avec et sans les instructions NOP.
