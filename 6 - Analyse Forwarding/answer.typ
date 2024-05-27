@@ -28,7 +28,7 @@ La constante `hazard_detection_mode` permet d'activer le forwarding si la valeur
 == 4. Pourquoi observe t’on un arret pendant l’execution du programme avec le mode = 1 selectionné ? Est-t-il normal qu’on observe un arret ?
 
 Car dans les instrcutions du programme 3 il y a une suite d'instruction qui oblige le processeur à attendre que les données soient disponibles pour pouvoir continuer.
-
+ 
 ```assembly
 LDRH r1, [r2, #4]
 ADD  r1, #0x10
